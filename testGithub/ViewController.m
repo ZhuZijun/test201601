@@ -16,6 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSUInteger i =0;
+    NSLog(@"%lu",(unsigned long)i);
+    NSLog(@"test");
+    /**
+     *  test
+     *
+     *  @return i
+     */
     // Do any additional setup after loading the view, typically from a nib.
 }
 
